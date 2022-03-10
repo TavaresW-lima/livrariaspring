@@ -1,2 +1,2 @@
 # livrariaspring
-Porjeto de api Rest de uma livraria com Spring Boot
+Projeto de api Rest de uma livraria com Spring Boot
